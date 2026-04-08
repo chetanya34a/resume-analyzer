@@ -67,7 +67,7 @@ st.markdown("---")
 
 
 # ---------- NLP ----------
-nlp = spacy.blank("en")
+
 
 
 # ---------- FILE UPLOAD ----------
