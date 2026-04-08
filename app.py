@@ -2,6 +2,7 @@ import streamlit as st
 import PyPDF2
 import re
 import json
+import spacy
 from io import BytesIO
 
 from reportlab.lib.pagesizes import letter
@@ -67,7 +68,7 @@ st.markdown("---")
 
 
 # ---------- NLP ----------
-
+nlp = spacy.load("en_core_web_sm")
 
 
 # ---------- FILE UPLOAD ----------
