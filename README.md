@@ -11,7 +11,7 @@ A web-based resume analyzer built using Python and NLP.
 Python, Streamlit, NLP
 
 ## Live App
-https://resumeparser-f2appksswa38hr5wghvqkd5.streamlit.app/
+https://resume-analyzer-kbceqvk2s97h47yxkdcqm4.streamlit.app/
 
 
 ## 📸 Project Preview
